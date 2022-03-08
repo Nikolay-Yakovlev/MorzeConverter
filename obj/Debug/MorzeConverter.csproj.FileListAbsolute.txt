@@ -1,0 +1,10 @@
+D:\C#\MorzeConverter\bin\Debug\MorzeConverter.exe.config
+D:\C#\MorzeConverter\bin\Debug\MorzeConverter.exe
+D:\C#\MorzeConverter\bin\Debug\MorzeConverter.pdb
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.csproj.AssemblyReference.cache
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.Form1.resources
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.Properties.Resources.resources
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.csproj.GenerateResource.cache
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.csproj.CoreCompileInputs.cache
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.exe
+D:\C#\MorzeConverter\obj\Debug\MorzeConverter.pdb

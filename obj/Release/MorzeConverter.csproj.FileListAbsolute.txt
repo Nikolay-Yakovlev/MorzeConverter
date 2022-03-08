@@ -1,0 +1,9 @@
+D:\C#\MorzeConverter\bin\Release\MorzeConverter.exe.config
+D:\C#\MorzeConverter\bin\Release\MorzeConverter.exe
+D:\C#\MorzeConverter\bin\Release\MorzeConverter.pdb
+D:\C#\MorzeConverter\obj\Release\MorzeConverter.Form1.resources
+D:\C#\MorzeConverter\obj\Release\MorzeConverter.Properties.Resources.resources
+D:\C#\MorzeConverter\obj\Release\MorzeConverter.csproj.GenerateResource.cache
+D:\C#\MorzeConverter\obj\Release\MorzeConverter.csproj.CoreCompileInputs.cache
+D:\C#\MorzeConverter\obj\Release\MorzeConverter.exe
+D:\C#\MorzeConverter\obj\Release\MorzeConverter.pdb
